@@ -8,4 +8,4 @@ jobs:
   rename:
     runs-on: ubuntu-latest
     steps:
-      - run: git mv S 12
+      - run: git mv ./S ./12
